@@ -1,0 +1,33 @@
+FID,Governorat,District,Sub_Distri,NAME_EN,Latitude,Longitude,on_google,Host_Commu,Population,IDPs_Famil,Populati_1,No_of_Tota,No__Of_HH,project,Classifica
+0,Aleppo,Jabal Samaan,Daret Azza,Anjara,36.224051,36.951919,https://goo.gl/qwjBLE,3000,15000,900,4500,3900,2825,Food+Bread,2
+1,Aleppo,Jabal Samaan,Daret Azza,Hur,36.196525,36.96123,https://goo.gl/uPVNid,1000,5000,340,1700,1340,1400,Food+Bread,2
+2,Aleppo,Jabal Samaan,Daret Azza,Bshantara,36.221207,37.00147,https://goo.gl/KvKRpp,625,3125,125,625,750,550,Food+Bread,2
+3,Aleppo,Jabal Samaan,Daret Azza,Kafr Dael,36.21643,37.022092,https://goo.gl/QuuEZ9,1300,6500,600,3000,1900,600,Food+Bread,2
+4,Aleppo,Jabal Samaan,Jabal Samaan,Mansourah,36.202358,37.048673,https://goo.gl/9X8aSC,213,1065,110,550,323,400,Food+Bread+Hygiene,2
+5,Aleppo,Jabal Samaan,Daret Azza,Hoteh,36.196525,36.96123,https://goo.gl/6UEd51,1509,7545,1800,9000,3309,3850,Food+Bread+Hygiene+NFI+Winter,2
+6,Aleppo,Jabal Samaan,Atareb,Oweijel,36.178751,36.95343,https://goo.gl/3UeSME,800,4000,500,2500,1300,500,Food+Bread,2
+7,Aleppo,Jabal Samaan,Daret Azza,Qabtan Eljabal,36.263534,36.945969,https://goo.gl/Z9KKRY,2455,12275,545,2725,3000,2100,Food+Bread,2
+8,Aleppo,Jabal Samaan,Daret Azza,Qasemiyeh,36.23293,36.958186,https://goo.gl/7Bn2Ji,196,980,57,285,253,300,Food+Bread,2
+9,Aleppo,Jabal Samaan,Daret Azza,Salloum,36.238283,36.940441,https://goo.gl/jFXnEj,225,1125,200,1000,425,400,Food+Bread,2
+10,Aleppo,Jabal Samaan,Daret Azza,Alarmen Compunds,36.22208,36.915298,https://goo.gl/5vmaHQ,0,0,125,625,125,750,Food+Bread+Hygiene+NFI+Winter,2
+11,Aleppo,Jabal Samaan,Daret Azza,Bala,36.228179,36.915691,https://goo.gl/Jr1SPc,250,1250,140,700,390,500,Food+Bread+Hygiene,2
+12,Aleppo,Jabal Samaan,Daret Azza,Balenta,36.228784,36.890115,https://goo.gl/wwy6fK,175,875,25,125,200,350,Food+Bread+Hygiene,2
+13,Aleppo,Jabal Samaan,Daret Azza,Mkelbis,36.24544,36.88287,https://goo.gl/GizQGc,100,500,10,50,110,200,Food+Bread+Hygiene,2
+14,Aleppo,Jabal Samaan,Jabal Samaan,Khan Al-Asal,36.169444,37.0375,https://goo.gl/qTjBAL,0,0,3200,16000,3200,4725,Food+Bread+Hygiene+NFI+Winter,2
+15,Aleppo,Jabal Samaan,Jabal Samaan,Dahiyet Shahabaa,36.16738,37.00061,https://goo.gl/ffMR3f,50,250,1400,7000,1450,2175,Food+Bread+Hygiene+NFI+Winter,2
+16,Aleppo,Jabal Samaan,Al Houta,Electrical Association No.2,36.187606,36.971316,https://goo.gl/kTpnA6,0,0,474,2370,474,400,Food+Bread,2
+17,Aleppo,Jabal Samaan,Daret Azza,Al Houta Farm,36.204695,36.958493,https://goo.gl/B7UUNY,35,175,190,950,225,200,Food+Bread,2
+18,Aleppo,Jabal Samaan,Mujbina,Majbineh,36.207488,36.979744,https://goo.gl/Csc73d,0,0,191,955,191,625,Food+Bread+Hygiene+NFI+Winter,2
+19,Aleppo,Jabal Samaan,Eweajel,Al Furkan camp 1&2,36.16166,36.97105,https://goo.gl/niU5kg,0,0,615,3075,615,650,Food+Bread+Hygiene+NFI+Winter,2
+20,Aleppo,Jebel Saman,Haritan,Haritan,36.282604,37.085081,https://goo.gl/maps/4UimNsvU7ts,1500,9000,550,3300,2050,60,Shelter,6
+21,Aleppo,Jebel Saman,Haritan,Andan,36.294085,37.045997,https://goo.gl/maps/rssxa2YghuS2,1916,11500,833,5000,2749,30,Shelter,6
+22,Idleb,Al Mara,Ma'arrat An Nu'man,Ma'arrat An Nu'man,35.648625,36.675821,https://goo.gl/maps/zMVGfGuDs2Q2,13400,80000,5830,35000,19230,30,Shelter,6
+23,Idleb,Ariha,Ariha,Ariha,35.813337,36.609605,https://goo.gl/maps/YUQtNJ1guLy,4160,25000,1160,7000,5320,30,Shelter,6
+24,Aleppo,Jebel Saman,Atareb,Owijel,36.173792,36.975423,https://goo.gl/maps/wEmttLXUHXo,0,0,250,1500,250,250,Camps,8
+25,Idleb,Idleb,Maaret Tamsrin,Batenta,36.009785,36.576724,https://goo.gl/maps/cqok1s8F1TL2,0,0,106,640,106,106,Camps,8
+26,Idleb,Idleb,Maaret Tamsrin,Kaftin,36.094122,36.683006,https://goo.gl/maps/TcmqxuDqQBJ2,0,0,91,546,91,91,Camps,8
+27,Idleb,Idleb,Maaret Tamsrin,Zardana Mashehad,36.054832,36.742593,https://goo.gl/maps/msr2ddpF9xM2,0,0,65,392,65,65,Camps,8
+28,Idleb,Idleb,Maaret Tamsrin,Kelly,36.115488,36.6935308,https://goo.gl/maps/e79v7QEbX262,0,0,210,1260,210,210,Camps,8
+29,Idleb,Idleb,Maaret Tamsrin,Maaret Tamsrin,36.004855,36.670895,https://goo.gl/maps/NPZQ8dJaPDK2,0,0,33,197,33,33,Camps,8
+30,Idleb,Idleb,Maaret Tamsrin,Hazano,36.08665,36.721695,https://goo.gl/maps/UVumyq2pxmo,0,0,64,384,64,64,Camps,8
+31,Idleb,Maaret Tamsrin,Maaret Tamsrin,Kafr - Kafrehmul,36.047439,36.692892,https://goo.gl/maps/ibFj6rbvjQU2,0,0,92,550,92,92,Camps,8
